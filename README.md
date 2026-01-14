@@ -39,7 +39,9 @@ I have selected and implemented the following modules for the final assessment:
 
 ## Visuals
 ### Performance Test Result
-![Performance Graph](performance-graph.png)
+<img width="1918" height="405" alt="Screenshot 2026-01-14 111113" src="https://github.com/user-attachments/assets/68045bf1-ab7a-48d8-bf88-6eae14a736e1" />
+<img width="1914" height="815" alt="Screenshot 2026-01-14 111124" src="https://github.com/user-attachments/assets/4568f686-c943-4b73-aae9-191dfaa19a08" />
+
 
 ## Architecture
 - **Frontend:** HTML, CSS, Leaflet.js
