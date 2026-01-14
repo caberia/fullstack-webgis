@@ -43,7 +43,7 @@ I have selected and implemented the following modules for the final assessment:
 <img width="1914" height="815" alt="Screenshot 2026-01-14 111124" src="https://github.com/user-attachments/assets/4568f686-c943-4b73-aae9-191dfaa19a08" />
 
 
-## Architecture
+## Stack
 - **Frontend:** HTML, CSS, Leaflet.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
