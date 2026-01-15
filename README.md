@@ -28,10 +28,7 @@ I have selected and implemented the following modules for the final assessment:
 - **Update/Delete:** Users can remove points directly from the UI.
 - **Filtering:** Real-time search bar filters both the map markers and the table rows instantly.
 
-### 5. Performance Monitoring (25%)
-- **Mechanism:** Implemented a **2dsphere** geospatial index on the `location` field in MongoDB to optimize spatial queries.
-
-### 6. Performance Testing (25%)
+### 5. Performance Testing (25%)
 - **Tool:** Artillery.io
 - **Experiment:** Load testing with 1500 requests simulating a ramp-up from 5 to 20 concurrent users.
 - **Results:** The API sustained the load with 100% success rate and ~100ms average response time.
